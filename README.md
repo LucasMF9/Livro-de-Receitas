@@ -1,6 +1,3 @@
-### Livro de Receitas:book:
+# Livro de Receitas
 
-Olá! Bem vindo ao meu livro de receitas
-
-- Strogonofe de frango :chicken:
-- 
+Meu livro de receitas
